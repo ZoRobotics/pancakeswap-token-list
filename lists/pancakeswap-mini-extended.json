@@ -1,10 +1,10 @@
 {
   "name": "PancakeSwap Mini Ext",
-  "timestamp": "2024-03-14T18:38:24.250Z",
+  "timestamp": "2025-05-28T18:02:53.905Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 67
+    "patch": 68
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -2678,6 +2678,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x1D229B958D5DDFca92146585a8711aECbE56F095/logo.png"
+    },
+    {
+      "name": "ZoRobotics",
+      "symbol": "ZORO",
+      "address": "0x0D4d3c739E2Fdf82C7CE2a9e450e208E5330A237",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0D4d3c739E2Fdf82C7CE2a9e450e208E5330A237.png"
     }
   ]
 }
