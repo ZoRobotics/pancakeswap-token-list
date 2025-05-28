@@ -2128,6 +2128,14 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x1D229B958D5DDFca92146585a8711aECbE56F095/logo.png"
   },
   {
+    "name": "ZoRobotics",
+    "symbol": "ZORO",
+    "address": "0x0D4d3c739E2Fdf82C7CE2a9e450e208E5330A237",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0D4d3c739E2Fdf82C7CE2a9e450e208E5330A237.png"
+  },
+  {
     "name": "The Sandbox",
     "symbol": "SAND",
     "address": "0x67b725d7e342d7B611fa85e859Df9697D9378B2e",

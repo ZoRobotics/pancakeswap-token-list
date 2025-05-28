@@ -1,10 +1,10 @@
 {
   "name": "PancakeSwap Extended",
-  "timestamp": "2024-09-19T10:57:12.436Z",
+  "timestamp": "2025-05-28T17:55:41.174Z",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 245
+    "patch": 263
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
@@ -3427,6 +3427,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x1D229B958D5DDFca92146585a8711aECbE56F095.png"
+    },
+    {
+      "name": "ZoRobotics",
+      "symbol": "ZORO",
+      "address": "0x0D4d3c739E2Fdf82C7CE2a9e450e208E5330A237",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0D4d3c739E2Fdf82C7CE2a9e450e208E5330A237.png"
     },
     {
       "name": "LayerZero",
